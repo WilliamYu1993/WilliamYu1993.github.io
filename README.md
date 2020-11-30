@@ -166,7 +166,6 @@ gh-badge  | Select which GitHub buttons to display. Available options are: [star
 last-updated | If you want to show that a blog post was updated after it was originally released, you can specify an "Updated on" date.
 layout      | What type of page this is (default is `post` for blog posts and `page` for other pages). See _Page types_ section below for more information.
 
-
 ## Advanced parameters
 
 These are advanced parameters that are only useful for people who need very fine control over their website.
