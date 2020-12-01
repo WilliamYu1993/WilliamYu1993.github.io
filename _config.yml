@@ -16,8 +16,8 @@ author: Cheng Yu (William)
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Paper with codes (Bio-ASP Lab, Academia Sinica, Taiwan): "https://bio-asplab.citi.sinica.edu.tw"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
