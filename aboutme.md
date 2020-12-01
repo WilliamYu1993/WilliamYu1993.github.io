@@ -4,7 +4,7 @@ title: About me
 subtitle: Help those in need with the power of signal processing, technologies, and passion.
 ---
 
-I'm Cheng Yu, or William for those who is native English speaker. I have the following qualities:
+I'm Cheng Yu, or William for those who are native English speakers. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
