@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Cheng Yu's Website
 
 # Your name to show in the footer
-author: Some Person
+author: Cheng Yu
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Bio-ASP Lab, Academia Sinica, Taiwan: "https://bio-asplab.citi.sinica.edu.tw"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://github.com/WilliamYu1993"
 
 # --- Logo --- #
 
@@ -39,14 +39,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "victor41899@gmail.com"
+  facebook: ChengYu1993
+  github: WilliamYu1993
+#   twitter: daattali
+#   patreon: DeanAttali
+#   youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: williamchengyu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -60,7 +60,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ google-scholar: "https://scholar.google.com.tw/citations?hl=zh-TW&user=RaVT25oAAAAJ"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
