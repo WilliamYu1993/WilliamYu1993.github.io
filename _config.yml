@@ -9,7 +9,7 @@
 title: Cheng Yu's Website
 
 # Your name to show in the footer
-author: Some Person
+author: Cheng Yu
 
 # --- List of links in the navigation bar --- #
 
@@ -40,13 +40,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "victor41899@gmail.com"
-  facebook: "https://www.facebook.com/profile.php?id=100002456090222"
-  github: "https://github.com/WilliamYu1993"
+  facebook: ChengYu1993
+  github: WilliamYu1993
 #   twitter: daattali
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  reddit: yourname
- linkedin: "https://www.linkedin.com/in/williamchengyu/"
+ linkedin: williamchengyu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
