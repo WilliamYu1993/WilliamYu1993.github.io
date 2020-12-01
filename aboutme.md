@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Help those in need with the power of signal processing and technologies
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Cheng Yu. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
