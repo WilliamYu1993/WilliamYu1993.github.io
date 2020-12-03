@@ -5,6 +5,6 @@ title: My Skills
 
 Coding: Python (Major), MatLab(Major), C, C++, bash
 
-ToolKits: Tensorflow, Keras, Pytorch, Py-WORLD, Kaldi
+ToolKits: Tensorflow, Keras, Pytorch, Py-WORLD, Kaldi, OpenCV
 
 Others: Barista, Guitar, Photography, Biker, Baller
