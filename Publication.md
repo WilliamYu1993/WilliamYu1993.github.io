@@ -11,7 +11,7 @@ title: My publications
 2020
 ---
 
-**_IEEE Signal Processing Letters (SPL)_**, **Cheng Yu**, Kuo-Hsuan Hung, Syu-Siang Wang, Yu Tsao, Jeih-weih Hung, "Time-domain multi-modal bone/air conducted speech enhancement"[IEEE](https://scholar.google.com/citations?user=RaVT25oAAAAJ&hl=zh-TW#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Dzh-TW%26user%3DRaVT25oAAAAJ%26citation_for_view%3DRaVT25oAAAAJ%3A9yKSN-GCB0IC%26tzom%3D-480)  [arXiv](https://arxiv.org/pdf/1911.09847.pdf)  [codes](https://github.com/WilliamYu1993/BAMSE)
+**_IEEE Signal Processing Letters (SPL)_**, **Cheng Yu**, Kuo-Hsuan Hung, Syu-Siang Wang, Yu Tsao, Jeih-weih Hung, "Time-domain multi-modal bone/air conducted speech enhancement"   [*IEEE*](https://scholar.google.com/citations?user=RaVT25oAAAAJ&hl=zh-TW#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Dzh-TW%26user%3DRaVT25oAAAAJ%26citation_for_view%3DRaVT25oAAAAJ%3A9yKSN-GCB0IC%26tzom%3D-480)   [*arXiv*](https://arxiv.org/pdf/1911.09847.pdf)   [*codes*](https://github.com/WilliamYu1993/BAMSE)
 
 **_IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)_**, **Cheng Yu**, Ryandhimas E Zezario, Syu-Siang Wang, Jonathan Sherman, Yi-Yen Hsieh, Xugang Lu, Hsin-Min Wang, Yu Tsao, "Speech enhancement based on denoising autoencoder with multi-branched encoders"; 
 
