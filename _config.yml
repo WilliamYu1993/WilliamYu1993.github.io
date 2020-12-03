@@ -16,7 +16,7 @@ author: Cheng Yu
 navbar-links:
   About Me: "aboutme"
   Research Publications: "Publication"
-  Skills: "aboutme"
+  Skills: "Skills"
   Resources: 
     - Bio-ASP Lab, Academia Sinica, Taiwan: "https://bio-asplab.citi.sinica.edu.tw"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
