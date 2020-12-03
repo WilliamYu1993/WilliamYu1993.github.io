@@ -3,9 +3,9 @@ layout: page
 title: My publications
 ---
 
---------
+---
 Published:
---------
+---
 
 ---
 2020
@@ -23,9 +23,9 @@ Asia-Pacific Signal and Information Processing Association 2020, Szu-Wei Fu, Chi
 
 IEEE SPL, Jyun-Yi Wu, Cheng Yu, Szu-Wei Fu, Chih-Ting Liu, Shao-Yi Chien, Yu Tsao, "Increasing compactness of deep learning based speech enhancement models with parameter pruning and quantization techniques"; 
 
---------
+---
 Submitted
---------
+---
 
 Submitted to IEEE SPL, Cheng Yu, Kuo-Hsuan Hung, I-Fan Lin, Szu-Wei Fu, Yu Tsao, Jeih-weih Hu, "Waveform-based Voice Activity Detection Exploiting Fully Convolutional networks with Multi-Branched Encoders"; 
 
