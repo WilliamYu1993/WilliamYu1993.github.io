@@ -6,7 +6,7 @@ title: My publications
 ---
 #Published:
 ---
-[Markdown 語法說明](http://markdown.tw/ "Title")
+
 ---
 2020
 ---
