@@ -15,9 +15,9 @@ author: Cheng Yu
 
 navbar-links:
   About Me: "aboutme"
-  Research Publications: 
-  Skills:
-  Resources:
+  Research Publications: "aboutme"
+  Skills: "aboutme"
+  Resources: 
     - Bio-ASP Lab, Academia Sinica, Taiwan: "https://bio-asplab.citi.sinica.edu.tw"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
   Github homepage: "https://github.com/WilliamYu1993"
@@ -43,7 +43,7 @@ round-avatar: true
 social-network-links:
   email: "victor41899@gmail.com"
 #   facebook: "https://www.facebook.com/ChengYu1993"
-  github: "https://github.com/WilliamYu1993"
+  github: "WilliamYu1993"
 #   twitter: daattali
 #   patreon: DeanAttali
 #   youtube: c/daattali
