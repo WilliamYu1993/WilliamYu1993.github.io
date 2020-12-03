@@ -4,7 +4,7 @@ title: My publications
 ---
 
 ---
-Published:
+#Published:
 ---
 
 ---
@@ -24,7 +24,7 @@ Published:
 **_IEEE Signal Processing Letters (SPL)_**, Jyun-Yi Wu, **Cheng Yu**, Szu-Wei Fu, Chih-Ting Liu, Shao-Yi Chien, Yu Tsao, "Increasing compactness of deep learning based speech enhancement models with parameter pruning and quantization techniques"; 
 
 ---
-Submitted
+#Submitted:
 ---
 
 Submitted to **_IEEE Signal Processing Letters (SPL)_**, **Cheng Yu**, Kuo-Hsuan Hung, I-Fan Lin, Szu-Wei Fu, Yu Tsao, Jeih-weih Hu, "Waveform-based Voice Activity Detection Exploiting Fully Convolutional networks with Multi-Branched Encoders"; 
