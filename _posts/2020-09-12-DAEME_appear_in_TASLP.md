@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My paper DAEME appears in IEEE/ACM TASLP  
+title: DAEME appears in IEEE/ACM TASLP  
 subtitle: An Ensemble Learing method that incorporates speech/signal attributes
 tags: Speech_Enhancement, Ensemble_Learning
 ---
