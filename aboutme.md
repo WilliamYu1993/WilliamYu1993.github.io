@@ -13,6 +13,8 @@ I'm Cheng Yu, or William for those who are native English speakers. I play multi
 
 ### My background story
 
+
+
 #### Childhood
 I was raised in a family of three generations, all six members are loving and caring. My sister and I attended various camps and activities, including sports, art, literature, and music. These experiences helped me establish an open mind for knowledge from different fields. When getting in touch with new knowledge, unlike most parents would do, my parents never asked me to come out in front, or perform perfectly. Instead, they asked me to enjoy the atmosphere of learning amongst various groups of people with different talents. They wanted me to explore pure happiness that can be acquired whenever one get to know or learn new things. The way they educated me had brought me great flexibility in facing problems and making decisions.
   As a kid that loved nature and outdoor activities, my parents made me join a science club that do experiments or field researches in mountains on holidays. The founder of the club, a science teacher from a local high school, was always busy answering my “out of nowhere” questions. I did cool projects like making a flute out of bamboo (took from my grandparents’ garden with my uncle), remote control boat (designed and built with my dad), specimen of my pet rhinoceros beetle. In the making of these projects, I learned a lot about making plans, teamwork, and respect for life. These precious experiences also helped me learn more about my family, my clubmates, and myself.
