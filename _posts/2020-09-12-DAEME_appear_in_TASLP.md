@@ -2,7 +2,7 @@
 layout: post
 title: My paper DAEME appears in IEEE/ACM TASLP  
 subtitle: An Ensemble Learing method that incorporates speech/signal attributes
-tags: Speech Enhancement, Ensemble Learning
+tags: Speech_Enhancement, Ensemble_Learning
 ---
 
 ![EMR](https://github.com/WilliamYu1993/WilliamYu1993.github.io/blob/master/assets/img/EMR.png?raw=true)
