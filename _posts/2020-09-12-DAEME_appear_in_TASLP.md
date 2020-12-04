@@ -6,6 +6,7 @@ tags: Speech_Enhancement, Ensemble_Learning
 ---
 
 ![EMR](https://github.com/WilliamYu1993/WilliamYu1993.github.io/blob/master/assets/img/EMR.png?raw=true)
+_The left block demonstrates our training stage; The right block demonstrates our testing stage_
 
 ## Abstract of our published paper
 
