@@ -27,7 +27,7 @@ title: My publications
 # Submitted
 ---
 
-Submitted to **_IEEE Signal Processing Letters (SPL)_**, **Cheng Yu**, Kuo-Hsuan Hung, I-Fan Lin, Szu-Wei Fu, Yu Tsao, Jeih-weih Hu, "Waveform-based Voice Activity Detection Exploiting Fully Convolutional networks with Multi-Branched Encoders" [[*arXiv*]](https://arxiv.org/pdf/2006.11139.pdf) 
+Submitted to **_IEEE Signal Processing Letters (SPL)_**, **Cheng Yu**, Kuo-Hsuan Hung, I-Fan Lin, Szu-Wei Fu, Yu Tsao, Jeih-weih Hung, "Waveform-based Voice Activity Detection Exploiting Fully Convolutional networks with Multi-Branched Encoders" [[*arXiv*]](https://arxiv.org/pdf/2006.11139.pdf) 
 
 Submitted to **_International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_** 2021, Tsun-An Hsieh, **Cheng Yu**, Szu-Wei Fu, Xugang Lu, Yu Tsao, "Improving Perceptual Quality by Phone-Fortified Perceptual Loss for Speech Enhancement"; 
 
