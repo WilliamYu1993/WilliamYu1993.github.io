@@ -8,7 +8,7 @@ I'm Cheng Yu, or William for those who are native English speakers. I play multi
 
 - I'm a research assitant
 - I'm a guitar-holic (for John Mayer)
-- I'm an amatuer barista who makes latte/americano/shots for my colleagues on the same floor of our building in Academia Sinica
+- I'm a barista with a start-up level micro coffee shop
 - I'm an amatuer photographer who shot weddings or events occasionally
 
 ### My background story
